@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗨𝗡𝐈𝘾𝙊𝙍𝙉", url=f"https://t.me/uniquecorn_143"
+                text="𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/vip_chattings"
             ),
             InlineKeyboardButton(
-                text="𝙊𝙁𝙁𝙇𝙄𝙉𝙀", url=f"https://t.me/offline_143"
+                text="𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/hsjehehjwjdjeek"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗨𝗡𝐈𝘾𝙊𝙍𝙉", url=f"https://t.me/uniquecorn_143"
+                text="𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/vip_chattings"
             ),
             InlineKeyboardButton(
-                text="𝙊𝙁𝙁𝙇𝙄𝙉𝙀", url=f"https://t.me/offline_143"
+                text="𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/hsjehehjwjdjeek"
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
